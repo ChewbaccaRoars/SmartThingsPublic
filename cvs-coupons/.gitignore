@@ -1,0 +1,6 @@
+.env
+*.html
+*.json
+__pycache__/
+*.pyc
+.playwright/
